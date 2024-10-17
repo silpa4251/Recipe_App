@@ -1,0 +1,26 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Pasta",
+      "ingredients": "Pasta, Tomato, Basil, Cheese",
+      "instructions": "Boil pasta, mix with sauce...",
+      "category": "Dinner"
+    },
+    {
+      "id": 2,
+      "title": "Pancakes",
+      "ingredients": "Flour, Milk, Eggs, Syrup",
+      "instructions": "Mix ingredients, cook on stove...",
+      "category": "Breakfast"
+    },
+    {
+      "id": 3,
+      "title": "biriyani",
+      "ingredients": "rice,chicken,biriyani masala",
+      "instructions": "cook rice and chicken seperately",
+      "category": "Lunch"
+    }
+  ],
+  "users": []
+}
